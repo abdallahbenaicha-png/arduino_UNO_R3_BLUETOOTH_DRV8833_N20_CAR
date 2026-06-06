@@ -1,6 +1,8 @@
 # arduino_UNO_R3_BLUETOOTH_DRV8833_N20_CAR
 🚗 Arduino UNO R3 Bluetooth Smart Car (DRV8833 + N20 Motors)
 🧠 Project Description
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e6247c31-f2b0-4570-a0c4-c5a85bce48bf" />
+
 
 This project is a Bluetooth-controlled smart robot car built using an Arduino IDE and an Arduino UNO R3.
 
